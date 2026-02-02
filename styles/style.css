@@ -1,11 +1,5 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 20px;
-  background-color: #f5f6f7;
-}
-
-h1 {
-  color: #333;
-  text-align: center;
-}
+@import url("../blocks/header.css");
+@import url("../blocks/intro.css");
+@import url("../blocks/page.css");
+@import url("../blocks/lead.css");
+@import url("../blocks/footer.css");
