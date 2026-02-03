@@ -1,6 +1,12 @@
 .intro {
   display: flex;
   flex-direction: column;
+  max-width: 65%;
+  height: 482px;
+  margin: 0 auto;
+  margin-bottom: 132px;
+  margin-left: 148px;
+  margin-right: 302px;
 }
 
 .title__intro {

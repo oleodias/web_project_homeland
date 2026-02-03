@@ -1,6 +1,9 @@
 .lead {
   display: flex;
   flex-direction: column;
+  max-width: 77%;
+  height: 983px;
+  margin: 0 auto;
 }
 
 .title__lead {
