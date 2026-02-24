@@ -1,8 +1,5 @@
 .lead {
-  display: flex;
   flex-direction: column;
-  max-width: 77%;
-  height: 983px;
   margin: 0 auto;
 }
 
@@ -14,6 +11,11 @@
   line-height: 100px;
   text-align: center;
   color: #ffffff;
+  max-width: 793px;
+  height: 200px;
+  margin: 0 auto;
+  margin-top: 83px;
+  margin-bottom: 32px;
 }
 
 .description__lead {
@@ -24,7 +26,26 @@
   line-height: 36px;
   text-align: center;
   color: #ffffff;
+  width: 720px;
+  height: 72px;
+  margin: 0 auto;
+  margin-bottom: 64px;
 }
 
 .image__lead {
+  width: 77%;
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .title__lead .description__lead {
+    margin: 90px 24px 30px 24px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .image__lead {
+    width: 100%;
+  }
 }
