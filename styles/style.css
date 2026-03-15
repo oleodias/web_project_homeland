@@ -1,17 +1,6 @@
-@import url("../blocks/header.css");
-@import url("../blocks/intro.css");
-@import url("../blocks/page.css");
-@import url("../blocks/lead.css");
-@import url("../blocks/footer.css");
-
-@font-face {
-  font-family: "Inter";
-  src: url(https://practicum-content.s3.us-west-1.amazonaws.com/frontend-developer/responsive/moved_Inter-Regular.woff);
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: "Inter";
-  src: url(https://practicum-content.s3.us-west-1.amazonaws.com/frontend-developer/responsive/moved_Inter-Bold.woff2);
-  font-weight: bold;
-}
+@import url("../pages/header.css");
+@import url("../pages/intro.css");
+@import url("../pages/page.css");
+@import url("../pages/lead.css");
+@import url("../pages/footer.css");
+@import url("../vendor/font.css");
