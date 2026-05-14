@@ -59,13 +59,6 @@ O design foi fornecido em Figma com três frames principais (320, 768 e 1280 pix
 
 ---
 
-## 📈 Planos de Melhoria
-
-1. **Componente de Galeria**: adicionar uma seção interativa com fotos das cidades natais de cada profissional, com efeitos de hover e modais.
-2. **Internacionalização (i18n)**: tornar a página acessível em português, inglês e ucraniano para refletir a diversidade da galeria.
-
----
-
 ## 👤 Autor
 
 **Leonardo Dias Caumo** — _Desenvolvido como parte do portfólio de estudos em Desenvolvimento Web da TripleTen Brasil._
