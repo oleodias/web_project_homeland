@@ -1,0 +1,33 @@
+.logo {
+  display: flex;
+  justify-content: center;
+  padding-top: 34px;
+}
+
+.logo__image {
+  width: 254px;
+  height: 70px;
+  display: block;
+}
+
+@media (max-width: 1023px) {
+  .logo {
+    padding-top: 30px;
+  }
+
+  .logo__image {
+    width: 254px;
+    height: 66px;
+  }
+}
+
+@media (max-width: 543px) {
+  .logo {
+    padding-top: 20px;
+  }
+
+  .logo__image {
+    width: 188px;
+    height: 52px;
+  }
+}

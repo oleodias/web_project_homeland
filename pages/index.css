@@ -1,6 +1,7 @@
-@import url("../pages/header.css");
-@import url("../pages/intro.css");
-@import url("../pages/page.css");
-@import url("../pages/lead.css");
-@import url("../pages/footer.css");
-@import url("../vendor/font.css");
+@import url("../vendor/fonts.css");
+@import url("../vendor/normalize.css");
+@import url("../blocks/page.css");
+@import url("../blocks/logo.css");
+@import url("../blocks/lead.css");
+@import url("../blocks/intro.css");
+@import url("../blocks/footer.css");

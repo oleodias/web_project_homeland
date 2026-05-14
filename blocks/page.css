@@ -1,13 +1,9 @@
 .page {
-  background-color: #2a2c2f;
-  font-size: 16px;
+  max-width: 1280px;
   margin: 0 auto;
-  background-size: cover;
-  font-family: "Inter", Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  text-rendering: optimizeLegibility;
+  background-color: #2a2c2f;
+  color: #ffffff;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 400;
+  overflow-x: hidden;
 }
