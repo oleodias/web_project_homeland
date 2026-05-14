@@ -1,32 +1,32 @@
-.logo {
+.header {
   display: flex;
   justify-content: center;
   padding-top: 34px;
 }
 
-.logo__image {
+.header__image {
   width: 254px;
   height: 70px;
   display: block;
 }
 
 @media (max-width: 1023px) {
-  .logo {
+  .header {
     padding-top: 30px;
   }
 
-  .logo__image {
+  .header__image {
     width: 254px;
     height: 66px;
   }
 }
 
 @media (max-width: 543px) {
-  .logo {
+  .header {
     padding-top: 20px;
   }
 
-  .logo__image {
+  .header__image {
     width: 188px;
     height: 52px;
   }
