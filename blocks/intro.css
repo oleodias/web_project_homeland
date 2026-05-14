@@ -66,3 +66,28 @@
     max-width: 720px;
   }
 }
+
+@media (max-width: 543px) {
+  .intro {
+    padding: 62px 16px 0;
+  }
+
+  .intro__title {
+    font-size: 32px;
+    line-height: 1.094;
+  }
+
+  .intro__quote {
+    font-size: 24px;
+    line-height: 1.25;
+    margin-top: 40px;
+  }
+
+  .intro__author {
+    margin-top: 10px;
+  }
+
+  .intro__text {
+    margin-top: 32px;
+  }
+}
