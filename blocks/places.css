@@ -65,23 +65,6 @@
   box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
 }
 
-.places__image_type_blank {
-  background-color: #c4c4c4;
-  position: relative;
-}
-
-.places__image_type_blank::after {
-  content: "Adicione uma imagem da sua cidade aqui";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 18px;
-  color: #000000;
-  text-align: center;
-  width: 80%;
-}
-
 .places__button {
   grid-area: button;
   width: 356px;
