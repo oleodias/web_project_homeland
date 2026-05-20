@@ -74,19 +74,6 @@ O design foi fornecido em Figma com três frames principais (320, 768 e 1280 pix
 
 ---
 
-## 📈 Planos de Melhoria
-
-1. **Adicionar mais cidades natais**: expandir a galeria para incluir outras origens dos integrantes da TripleTen, criando uma jornada mais completa.
-2. **Implementar uma versão multilíngue**: traduzir o site para inglês e ucraniano, refletindo a diversidade cultural dos artistas apresentados.
-
----
-
-## 🔗 Link do Projeto
-
-🌐 **GitHub Pages:** _adicionar URL aqui após publicar_
-
----
-
 ## 👤 Autor
 
 **Leonardo Dias Caumo** — _Desenvolvido como parte do portfólio de estudos em Desenvolvimento Web da TripleTen Brasil._
